@@ -1,0 +1,18 @@
+﻿The features of Procedural programming paradigm: These are Local variable global variable, predefined function modularity and parametar passing 
+Local variable; It is declared under main function and it works in a specific functions
+where it was define
+
+
+Global variable: It is declared outside the other function and it can works in whole function.
+Parametar Passing it pass parameter to
+function.
+Modularity. It's the
+way
+to combine two
+different function to solve a
+large task
+Predefined function: It's a
+set of instruction
+that's
+name are
+defined

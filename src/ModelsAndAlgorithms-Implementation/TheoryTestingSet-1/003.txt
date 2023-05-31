@@ -1,0 +1,2 @@
+﻿The Features of Procedural Programming Paradigm
+Programming Paradigm is a way of programming. There are many programming paradigm.. Like, functional programming paradigm, Imperative Programming paradigm, Declarative programming Paradigm etc. Procedural programming Paradigm has many features. Like, It can procedure program easily.

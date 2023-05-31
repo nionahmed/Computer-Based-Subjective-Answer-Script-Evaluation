@@ -1,0 +1,6 @@
+procedural programming
+local variable main function specific function inside 
+global variable outside int main function
+modularity combine large task solve
+parameter passing pass parameter value reference
+predefined functions function set of instruction higher high programming language level

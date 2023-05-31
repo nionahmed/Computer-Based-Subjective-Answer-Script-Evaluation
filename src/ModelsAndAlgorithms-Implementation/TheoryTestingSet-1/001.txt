@@ -1,0 +1,5 @@
+﻿A paradigm is a was of programming which makes our programming was to more easy. There are two kinds of Paradigms.
+Imperative Programming Paradigm 
+Declarative Programming Paradigms.
+Procedural programming paradigm in subset of Imperative programming: paradigms. Procedural Programming paradigms is a sequence of instructions which called a rule routine of function. It makes the programme easy to do. It is the sum of commands.This programme guide to do a programme.Though it is basically hand written Programme, it consumes a lot of time. It is easy to and user ft it is
+Slow, Increase complexity C, C++, FORTRAN

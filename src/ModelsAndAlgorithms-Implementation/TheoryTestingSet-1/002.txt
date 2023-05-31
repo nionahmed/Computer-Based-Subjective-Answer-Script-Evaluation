@@ -1,0 +1,25 @@
+﻿Procedural programming is a type of Imperative programming. It has certain features
+like-
+1. Predefined function
+2. Local variables 
+3. Global variable
+4. Modularity
+5. Parameter passing
+
+
+Predefined functions 
+This programming han predefined functions which means names are given to functions and they try to find these function when they try to run the function
+
+
+Local Variable
+Local variables are defined in the local function they can not work outside the they can not be called outside the area
+
+
+Global variable: Global variables are defined after each function. So they can not be used outside the local area.
+
+
+Modularity
+Modularity means When programs have individual tasks but they joint to finish the larger task
+and then continue untill all the tasks are completed.
+Parameter Passing:
+Parameter passing is done by in dore by parameter passing by name, passing by date, parring by number, parasing by value.

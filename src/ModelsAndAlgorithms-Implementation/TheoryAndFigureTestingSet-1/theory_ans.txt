@@ -1,0 +1,6 @@
+open[A,B] close[S]
+open[A], closed[S,B]
+open[E,F,A] closed[S, B]
+open[E,A] closed[S, B, f]
+open[I,G,E,A] closed[S, B, F]
+open[I,E,A] closed[S, B, F, G]

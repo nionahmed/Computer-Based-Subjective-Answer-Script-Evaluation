@@ -1,0 +1,7 @@
+Featured of procedural programming paradigms are:
+Global data: which can program be
+Libe in any function of the
+Local data- It can use in specific functions only.
+Modularity 
+Passing parameters
+Procedures

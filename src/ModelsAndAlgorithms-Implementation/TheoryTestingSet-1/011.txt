@@ -1,0 +1,45 @@
+﻿Procedural Programming Paradigm is a style or method of programming where we can solve a problem by dividing them into many procedures.
+The feature or key characteristics of Procedural programming paradigm!
+Predefined Punction: In a program we have to use many functions to solve a problem. some built in functions by But then solve a problem in less time.
+These are predefined function. As an example "Chare At()' is a predefined function. We can search for an amount in a Junction
+Local variable: "Local variables are built and defined in the scope.Their values can't be modified outside of
+a program. And
+the scope change in the outside of the scope
+will not effect the local variables.
+
+
+Global Variable: Global variables are "declared and defined outside
+of scopeAnd they canbe used by the on the whole program without coping; These types of variable are modified outside of the scope.
+
+
+modularity in to In a program we
+-can divide a code ind into different  module to
+solve faster and effectivly.
+So, In procedural paradigm
+can divide the whole task in
+
+
+different procedure which are called module. As Imperative" paradigm has a derived form called
+Structureal programming.
+On
+Modular
+
+
+
+
+programming. As a type of imperative fparcadigm procedived paradigm is also
+a
+modular,
+programming,
+Parameter Passing:
+Parameteres are
+the element in the.
+
+
+
+
+function that
+methods in
+canbe passed by many, procedural programming paradigm.
+"pass by numbers" pass by age,
+values etc.
